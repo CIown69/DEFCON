@@ -1,6 +1,6 @@
 import plotly.graph_objects as go
 
-north_dakota_coord = {"lat": 46.7296, "lon": -94.6859}
+north_dakota_coord = {"lat": 48.4158, "lon": -101.3581}
 russian_cities = [
     {"name": "Moscow", "lat": 55.7558, "lon": 37.6173},
     {"name": "Saint Petersburg", "lat": 59.9343, "lon": 30.3351},

@@ -94,7 +94,7 @@ def main():
         
         elif response2 == ("Counter Value").lower():
             chinese_city_strike_package.execute()
-        elif response == ("Counter Value Plan").lower():
+        elif response2 == ("Counter Value Plan").lower():
             chinese_city_strike_package.execute()
 
         else:
